@@ -282,7 +282,7 @@ export default function Home() {
                         <Rainbow className='rainbow'></Rainbow>
                     </div>
 
-                    <div className='jo'>
+                    <div className='girlwrittingcontainer'>
                         <Splash className='splash'></Splash>
                         <Girlwritting className='girlwritting'></Girlwritting>
 
@@ -313,9 +313,9 @@ export default function Home() {
                         </p>
 
                         <div className='ceo'>
-                            <span><Kathy></Kathy></span>
+                            <span ><Kathy></Kathy></span>
                             <span>
-                                <p> Kathy Sullivan</p>
+                                <p className='katy' > Kathy Sullivan</p>
                                 <p className='ceo__text'> CEO of School</p>
                             </span>
 
@@ -330,7 +330,7 @@ export default function Home() {
                         </p>
                         <div className='ceo'>
                             <span><Elsie></Elsie></span>
-                            <span><p>Elsie stroud</p>
+                            <span><p className='katy' >Elsie stroud</p>
                                 <p className='ceo__text'> CEO of School</p>
                             </span>
 
@@ -350,7 +350,7 @@ export default function Home() {
                         <div className='ceo'>
                             <span><Kathy></Kathy></span>
                             <span>
-                                <p>Kathy Sullivan </p>
+                                <p className='katy' >Kathy Sullivan </p>
                                 <p className='ceo__text'>CEO of School</p>
                             </span>
                         </div>
