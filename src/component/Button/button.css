@@ -1,0 +1,12 @@
+ .button__div{
+
+ }
+ button{
+    width: 100px;
+    height: 30px;
+    background-color:#2FC7A1 ;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+ }

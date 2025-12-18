@@ -27,3 +27,17 @@ Package.json is the file that tells NPM what your project needs and how to run i
 
 WHAT IS VITE:
 Vite is a fast build tool that makes your React project run faster, easier to develop and update your app instantly while you code.
+
+
+our second graded assignment
+
+DOM manipulation:
+
+React introduces the component-based approach to building UIs using JSX, props, state, and hooks.
+
+React Hooks make function components powerful, allowing state, side effects, context, and performance optimizations without classes.
+
+JavaScript DOM basics teach you how to interact with HTML elements and page structure — the underlying foundation that React abstracts away.
+
+Understanding both React and the DOM gives you a strong basis for building interactive, dynamic web applications.
+

@@ -1,0 +1,74 @@
+  .Navtext{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+/* max-width: 1400px; 
+width: 100%; */
+ }
+.first{
+display: flex;
+
+}
+
+.second{
+display: flex;
+background-color: orange;
+height: 50px;
+gap: 30px;
+
+}
+
+ .Nav__Container{
+   font-family: 'Fredoka', sans-serif;  
+    background-color: var(--deepgreen);
+    height: 50px;
+   
+ }
+
+ .clocktext{
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   padding-right: 30px;
+   
+ }
+
+.clocktext2{
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   margin-right: 90px;
+ }
+
+ .usatext{
+display: flex;
+align-items: center;
+gap: 7px;
+padding-left: 10px;
+
+ }
+
+.appicon{
+   display: flex;
+align-items: center;
+gap: 12px;
+margin-left: 20px;
+padding-right: 70px;
+
+ }
+
+.c{
+background-color: black;
+}
+
+
+
+
+
+
+
+
+.clock{
+   width: 20px;
+}
+

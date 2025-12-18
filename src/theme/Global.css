@@ -1,0 +1,11 @@
+ @import url(Variable.css);
+ @import url(Normalize.css);
+
+ *{
+  box-sizing: border-box;
+  
+font-family: 'Poppins', sans-serif;  /* body text */
+
+ }
+
+ 
